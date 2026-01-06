@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "Added Compatibility allowing other mods to work better with Serene Seasons",
+    "description": "Allowing other mods to work better with Serene Seasons",
     "pack_format": 48,
     "supported_formats": {
       "min_inclusive": 48,
