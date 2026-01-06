@@ -58,6 +58,10 @@
       "required": false
     },
     {
+      "id": "ecologics:hanging_coconut",
+      "required": false
+    },
+    {
       "id": "neapolitan:adzuki_soil",
       "required": false
     },
@@ -86,7 +90,39 @@
       "required": false
     },
     {
-      "id": "ecologics:hanging_coconut",
+      "id": "natures_spirit:blue_wisteria_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:aspen_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:red_maple_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:orange_maple_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:yellow_maple_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:cypress_sapling",
+      "required": false
+    },
+    {
+      "id": "enchanted:rowan_sapling",
+      "required": false
+    },
+    {
+      "id": "enchanted:garlic",
+      "required": false
+    },
+    {
+      "id": "enchanted:belladonna",
       "required": false
     }
   ]

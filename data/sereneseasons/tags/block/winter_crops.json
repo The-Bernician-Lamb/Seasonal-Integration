@@ -44,6 +44,26 @@
     {
       "id": "environmental:white_wisteria_sapling",
       "required": false
+    },
+    {
+      "id": "natures_spirit:white_wisteria_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:red_maple_sapling",
+      "required": false
+    },
+    {
+      "id": "enchanted:rowan_sapling",
+      "required": false
+    },
+    {
+      "id": "enchanted:garlic",
+      "required": false
+    },
+    {
+      "id": "enchanted:snowbell",
+      "required": false
     }
   ]
 }

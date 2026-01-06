@@ -12,6 +12,10 @@
     {
       "id": "upgrade_aquatic:mulberry_vine",
       "required": false
+    },
+    {
+      "id": "enchanted:mandrake",
+      "required": false
     }
   ]
 }

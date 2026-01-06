@@ -16,6 +16,10 @@
     {
       "id": "upgrade_aquatic:mulberry",
       "required": false
+    },
+    {
+      "id": "enchanted:mandrake_seeds",
+      "required": false
     }
   ]
 }

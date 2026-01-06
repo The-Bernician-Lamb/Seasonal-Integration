@@ -58,6 +58,10 @@
       "required": false
     },
     {
+      "id": "ecologics:hanging_coconut",
+      "required": false
+    },
+    {
       "id": "ecologics:prickly_pear",
       "required": false
     },
@@ -90,7 +94,115 @@
       "required": false
     },
     {
-      "id": "ecologics:hanging_coconut",
+      "id": "natures_spirit:purple_wisteria_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:yellow_maple_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:redwood_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:fir_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:cedar_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:sugi_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:willow_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:cypress_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:olive_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:mahogany_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:ghaf_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:palo_verde_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:joshua_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:coconut_sprout",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:alluaudia",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:desert_turnip_stem",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:avocado_sapling",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:avocado_pit",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:fruiting_avocado_leaves",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:corn",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:corn_upper",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:eggplants",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cucumbers",
+      "required": false
+    },
+    {
+      "id": "enchanted:alder_sapling",
+      "required": false
+    },
+    {
+      "id": "enchanted:hawthorn_sapling",
+      "required": false
+    },
+    {
+      "id": "enchanted:wolfsbane",
+      "required": false
+    },
+    {
+      "id": "enchanted:belladonna",
+      "required": false
+    },
+    {
+      "id": "enchanted:water_artichoke",
       "required": false
     }
   ]
