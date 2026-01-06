@@ -68,6 +68,18 @@
     {
       "id": "yungscavebiomes:lost_caves",
       "required": false
+    },
+    {
+      "id": "#natures_spirit:is_hot",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:tropical_shores",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:bamboo_wetlands",
+      "required": false
     }
   ]
 }
