@@ -4,6 +4,10 @@
     {
       "id": "environmental:marsh",
       "required": false
+    },
+    {
+      "id": "natures_spirit:marsh",
+      "required": false
     }
   ]
 }
