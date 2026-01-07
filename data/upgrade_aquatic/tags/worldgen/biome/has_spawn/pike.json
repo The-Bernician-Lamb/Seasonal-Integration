@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "clifftree:cold_river",
+      "required": false
+    },
+    {
+      "id": "clifftree:tropical_river",
+      "required": false
+    },
+    {
+      "id": "clifftree:warm_river",
+      "required": false
+    }
+  ]
+}
