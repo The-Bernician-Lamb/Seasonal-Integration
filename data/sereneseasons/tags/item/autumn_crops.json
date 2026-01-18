@@ -18,6 +18,10 @@
       "required": false
     },
     {
+      "id": "autumnity:foul_berries",
+      "required": false
+    },
+    {
       "id": "atmospheric:kousa_sapling",
       "required": false
     },
@@ -63,6 +67,10 @@
     },
     {
       "id": "neapolitan:strawberry_pips",
+      "required": false
+    },
+    {
+      "id": "neapolitan:strawberries",
       "required": false
     },
     {
