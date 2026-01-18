@@ -74,6 +74,10 @@
       "required": false
     },
     {
+      "id": "neapolitan:strawberries",
+      "required": false
+    },
+    {
       "id": "neapolitan:adzuki_beans",
       "required": false
     },
