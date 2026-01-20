@@ -20,6 +20,46 @@
     {
       "id": "enchanted:mandrake_seeds",
       "required": false
+    },
+    {
+      "id": "mynethersdelight:powder_cannon",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:bullet_pepper",
+      "required": false
+    },
+    {
+      "id": "minecraft:chorus_flower",
+      "required": false
+    },
+    {
+      "id": "enderscape:veiled_sapling",
+      "required": false
+    },
+    {
+      "id": "enderscape:celestial_chanterelle",
+      "required": false
+    },
+    {
+      "id": "enderscape:murublight_chanterelle",
+      "required": false
+    },
+    {
+      "id": "enderscape:murublight_shelf",
+      "required": false
+    },
+    {
+      "id": "enderscape:flanger_berry",
+      "required": false
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane",
+      "required": false
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_fungus",
+      "required": false
     }
   ]
 }
