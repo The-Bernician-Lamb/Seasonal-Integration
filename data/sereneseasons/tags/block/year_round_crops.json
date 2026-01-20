@@ -16,6 +16,50 @@
     {
       "id": "enchanted:mandrake",
       "required": false
+    },
+    {
+      "id": "mynethersdelight:powdery_cannon",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:powdery_cane",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:bullet_pepper",
+      "required": false
+    },
+    {
+      "id": "minecraft:chorus_flower",
+      "required": false
+    },
+    {
+      "id": "enderscape:veiled_sapling",
+      "required": false
+    },
+    {
+      "id": "enderscape:celestial_chanterelle",
+      "required": false
+    },
+    {
+      "id": "enderscape:murublight_chanterelle",
+      "required": false
+    },
+    {
+      "id": "enderscape:murublight_shelf",
+      "required": false
+    },
+    {
+      "id": "enderscape:flanger_berry_vine",
+      "required": false
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane",
+      "required": false
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_fungus",
+      "required": false
     }
   ]
 }
