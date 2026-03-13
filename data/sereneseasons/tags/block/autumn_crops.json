@@ -124,6 +124,26 @@
     {
       "id": "enchanted:belladonna",
       "required": false
+    },
+    {
+      "id": "traverse:fir_sapling",
+      "required": false
+    },
+    {
+      "id": "traverse:brown_autumnal_sapling",
+      "required": false
+    },
+    {
+      "id": "traverse:orange_autumnal_sapling",
+      "required": false
+    },
+    {
+      "id": "traverse:red_autumnal_sapling",
+      "required": false
+    },
+    {
+      "id": "traverse:yellow_autumnal_sapling",
+      "required": false
     }
   ]
 }
