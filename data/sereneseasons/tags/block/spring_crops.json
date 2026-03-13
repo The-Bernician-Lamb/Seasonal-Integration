@@ -176,6 +176,10 @@
     {
       "id": "enchanted:water_artichoke",
       "required": false
+    },
+    {
+      "id": "traverse:fir_sapling",
+      "required": false
     }
   ]
 }
