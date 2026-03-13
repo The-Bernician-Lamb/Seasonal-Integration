@@ -176,6 +176,10 @@
     {
       "id": "enchanted:water_artichoke_seeds",
       "required": false
+    },
+    {
+      "id": "traverse:fir_sapling",
+      "required": false
     }
   ]
 }
