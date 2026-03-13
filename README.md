@@ -12,7 +12,7 @@ This datapack also adds biomes from some mods to some Vanilla Minecraft and inte
 
 Want a mod or datapack integrated that isn't currently? Feel free to request one through the issues section or open a pull request, I'd be happy to take a look either way!
 
-NOTE: Requested mod or datapack must be on Neoforge and be on Minecraft Version 1.21.1 or above.
+NOTE: Requested mod or datapack must be on Neoforge or Fabric and be on Minecraft Version 1.21.1 or above.
 
 I primarily designed this datapack to accompany a modpack of mine called Tis the season, but you're more than welcome to use it as is!
 
