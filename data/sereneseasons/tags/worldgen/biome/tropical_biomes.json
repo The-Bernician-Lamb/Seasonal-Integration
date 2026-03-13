@@ -80,6 +80,10 @@
     {
       "id": "natures_spirit:bamboo_wetlands",
       "required": false
+    },
+    {
+      "id": "traverse:desert_shrubland",
+      "required": false
     }
   ]
 }
