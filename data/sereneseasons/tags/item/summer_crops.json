@@ -208,6 +208,10 @@
     {
       "id": "enchanted:water_artichoke_seeds",
       "required": false
+    },
+    {
+      "id": "traverse:yellow_autumnal_sapling",
+      "required": false
     }
   ]
 }
