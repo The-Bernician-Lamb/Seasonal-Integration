@@ -16,6 +16,10 @@
     {
       "id": "vanillabackport:pale_garden",
       "required": false
+    },
+    {
+      "id": "traverse:lush_swamp",
+      "required": false
     }
   ]
 }
