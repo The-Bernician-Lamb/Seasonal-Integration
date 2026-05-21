@@ -60,6 +60,10 @@
     {
       "id": "gardens_of_the_dead:soulblight_fungus",
       "required": false
+    },
+    {
+      "id": "biomeswevegone:white_puffball_spores",
+      "required": false
     }
   ]
 }
