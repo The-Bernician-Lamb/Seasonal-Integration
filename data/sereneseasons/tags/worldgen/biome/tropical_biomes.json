@@ -84,6 +84,18 @@
     {
       "id": "traverse:desert_shrubland",
       "required": false
+    },
+    {
+      "id": "biomeswevegone:baobab_savanna",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:ironwood_gour",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:araucaria_savanna",
+      "required": false
     }
   ]
 }
