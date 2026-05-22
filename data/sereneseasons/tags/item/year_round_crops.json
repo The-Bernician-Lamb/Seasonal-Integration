@@ -64,6 +64,14 @@
     {
       "id": "biomeswevegone:white_puffball_spores",
       "required": false
+    },
+    {
+      "id": "pamhc2crops:whitemushroomseeditem"
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:mulberryseeditem"
+      "required": false
     }
   ]
 }
