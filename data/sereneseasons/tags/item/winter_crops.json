@@ -76,6 +76,42 @@
     {
       "id": "traverse:red_autumnal_sapling",
       "required": false
+    },
+    {
+      "id": "pamhc2crops:cloudberryseeditem"
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:artichokeseeditem"
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:kohlrabiseeditem"
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:spinachseeditem"
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:cabbageseeditem"
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:juniperberryseeditem"
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:rutabagaseeditem"
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:sweetpotatoseeditem"
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:wintersquashseeditem"
+      "required": false
     }
   ]
 }
