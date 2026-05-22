@@ -180,6 +180,170 @@
     {
       "id": "traverse:fir_sapling",
       "required": false
+    },
+    {    
+      "id": "pamhc2crops:aloeseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:asparagusseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:barleyseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:barrelcactusseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:beanseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:broccoliseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:brusselsproutseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:cabbageseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:calabashseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:canolaseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:cauliflowerseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:celeryseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:chiaseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:chickpeaseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:coffeebeanseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:flaxseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:garlicseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:jicamaseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:kaleseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:kohlrabiseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:leekseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:lentilseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:lettuceseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:nettlesseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:oatsseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:onionseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:papyrusseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:parsnipseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:peasseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:quinoaseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:rhubarbseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:scallionseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:sorghumseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:spinachseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:strawberryseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:sweetpotatoseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:tealeafseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:truffleseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:turnipseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:yuccaseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:zucchiniseeditem"
+      "required": false
     }
   ]
 }
