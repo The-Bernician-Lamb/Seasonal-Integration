@@ -34,6 +34,10 @@
       "required": false
     },
     {
+      "id": "minecraft:spruce_sapling",
+      "required": false
+    },
+    {
       "id": "neapolitan:mint",
       "required": false
     },
