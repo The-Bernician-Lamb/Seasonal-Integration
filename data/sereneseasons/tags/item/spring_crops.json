@@ -189,6 +189,10 @@
       "id": "minecraft:cherry_sapling",
       "required": false
     },
+    {
+      "id": "minecraft:birch_sapling",
+      "required": false
+    },
     {    
       "id": "pamhc2crops:aloeseeditem",
       "required": false
