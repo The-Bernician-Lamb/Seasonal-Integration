@@ -213,6 +213,18 @@
       "id": "traverse:yellow_autumnal_sapling",
       "required": false
     },
+    {
+      "id": "minecraft:jungle_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:mangrove_propagule",
+      "required": false
+    },
     {    
       "id": "pamhc2crops:aloeseeditem",
       "required": false
