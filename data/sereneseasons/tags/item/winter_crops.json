@@ -30,6 +30,10 @@
       "required": false
     },
     {
+      "id": "minecraft:spruce_sapling",
+      "required": false
+    },
+    {
       "id": "berry_good:sweet_berry_pips",
       "required": false
     },
