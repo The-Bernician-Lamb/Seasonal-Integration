@@ -66,6 +66,18 @@
       "required": false
     },
     {
+      "id": "minecraft:oak_sapling",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_fungus",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fungus",
+      "required": false
+    },
+    {
       "id": "biomeswevegone:white_puffball",
       "required": false
     }
