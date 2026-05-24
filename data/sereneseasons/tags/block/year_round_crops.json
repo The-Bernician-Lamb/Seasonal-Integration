@@ -80,6 +80,14 @@
     {
       "id": "biomeswevegone:white_puffball",
       "required": false
+    },
+    {
+      "id": "pamhc2crops:pamwhitemushroomcrop"
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pammulberrycrop"
+      "required": false
     }
   ]
 }
