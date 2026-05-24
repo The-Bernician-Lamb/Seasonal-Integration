@@ -11,6 +11,30 @@
     {
       "id": "clifftree:cold_river",
       "required": false
+    },
+    {
+      "id": "climaterivers:warm_river",
+      "required": false
+    },
+    {
+      "id": "climaterivers:lukewarm_river",
+      "required": false
+    },
+    {
+      "id": "climaterivers:cold_river",
+      "required": false
+    },
+    {
+      "id": "riverredux:sandy_river",
+      "required": false
+    },
+    {
+      "id": "riverredux:tropical_river",
+      "required": false
+    },
+    {
+      "id": "riverredux:gravelly_river",
+      "required": false
     }
   ]
 }
