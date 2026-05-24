@@ -290,10 +290,6 @@
       "required": false
     },
     {
-      "id": "pamhc2crops:chiaseeditem",
-      "required": false
-    },
-    {
       "id": "pamhc2crops:chilipepperseeditem",
       "required": false
     },
