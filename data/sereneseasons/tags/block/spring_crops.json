@@ -192,6 +192,170 @@
     {
       "id": "minecraft:birch_sapling",
       "required": false
+    },
+    {    
+      "id": "pamhc2crops:pamaloecrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamasparaguscrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pambarleycrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pambarrelcactuscrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pambeancrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pambroccolicrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pambrusselsproutcrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamcabbagecrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamcalabashcrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamcanolacrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamcauliflowercrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamcelerycrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamchiacrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamchickpeacrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamcoffeebeancrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamflaxcrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamgarliccrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamjicamacrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamkalecrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamkohlrabicrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamleekcrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamlentilcrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamlettucecrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamnettlescrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamoatscrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamonioncrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pampapyruscrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamparsnipcrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pampeascrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamquinoacrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamrhubarbcrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamscallioncrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamsorghumcrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamspinachcrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamstrawberrycrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamsweetpotatocrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamtealeafcrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamtrufflecrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamturnipcrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamyuccacrop",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:pamzucchinicrop"
+      "required": false
     }
   ]
 }
