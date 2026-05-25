@@ -82,51 +82,51 @@
       "required": false
     },
     {
-      "id": "pamhc2crops:cloudberryseeditem"
+      "id": "pamhc2crops:cloudberryseeditem",
       "required": false
     },
     {
-      "id": "pamhc2crops:artichokeseeditem"
+      "id": "pamhc2crops:artichokeseeditem",
       "required": false
     },
     {
-      "id": "pamhc2crops:kohlrabiseeditem"
+      "id": "pamhc2crops:kohlrabiseeditem",
       "required": false
     },
     {
-      "id": "pamhc2crops:spinachseeditem"
+      "id": "pamhc2crops:spinachseeditem",
       "required": false
     },
     {
-      "id": "pamhc2crops:cabbageseeditem"
+      "id": "pamhc2crops:cabbageseeditem",
       "required": false
     },
     {
-      "id": "pamhc2crops:juniperberryseeditem"
+      "id": "pamhc2crops:juniperberryseeditem",
       "required": false
     },
     {
-      "id": "pamhc2crops:rutabagaseeditem"
+      "id": "pamhc2crops:rutabagaseeditem",
       "required": false
     },
     {
-      "id": "pamhc2crops:sweetpotatoseeditem"
+      "id": "pamhc2crops:sweetpotatoseeditem",
       "required": false
     },
     {
-      "id": "pamhc2crops:wintersquashseeditem"
+      "id": "pamhc2crops:wintersquashseeditem",
       "required": false
     },
     {
-      "id": "pamhc2trees:pinenut_sapling"
+      "id": "pamhc2trees:pinenut_sapling",
       "required": false
     },
     {
-      "id": "pamhc2trees:hazelnut_sapling"
+      "id": "pamhc2trees:hazelnut_sapling",
       "required": false
     },
     {
-      "id": "pamhc2trees:persimmon_sapling"
+      "id": "pamhc2trees:persimmon_sapling",
       "required": false
     }
   ]
