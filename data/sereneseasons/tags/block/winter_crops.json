@@ -116,6 +116,30 @@
     {
       "id": "pamhc2crops:pamwintersquashcrop"
       "required": false
+    },
+    {
+      "id": "pamhc2trees:pinenut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pampinenut"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:hazelnut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamhazelnut"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:persimmon_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pampersimmon"
+      "required": false
     }
   ]
 }
