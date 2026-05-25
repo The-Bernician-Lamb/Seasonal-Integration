@@ -78,19 +78,19 @@
       "required": false
     },
     {
-      "id": "pamhc2crops:whitemushroomseeditem"
+      "id": "pamhc2crops:whitemushroomseeditem",
       "required": false
     },
     {
-      "id": "pamhc2crops:mulberryseeditem"
+      "id": "pamhc2crops:mulberryseeditem",
       "required": false
     },
     {
-      "id": "pamhc2trees:maple_sapling"
+      "id": "pamhc2trees:maple_sapling",
       "required": false
     },
     {
-      "id": "pamhc2trees:acorn_sapling"
+      "id": "pamhc2trees:acorn_sapling",
       "required": false
     }
   ]
