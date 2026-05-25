@@ -84,6 +84,10 @@
     {
       "id": "pamhc2crops:mulberryseeditem"
       "required": false
+    },
+    {
+      "id": "pamhc2trees:maple_sapling"
+      "required": false
     }
   ]
 }
