@@ -17,7 +17,7 @@
      "required": false
    },
    {
-     "id": "#c:is_savanna"
+     "id": "#c:is_savanna",
      "required": false
    }
   ]
