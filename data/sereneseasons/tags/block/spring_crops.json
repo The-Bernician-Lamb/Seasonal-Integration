@@ -356,6 +356,78 @@
     {
       "id": "pamhc2crops:pamzucchinicrop"
       "required": false
+    },
+    {
+      "id": "pamhc2trees:pinenut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pampinenut"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:hazelnut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamhazelnut"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:grapefruit_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamgrapefruit"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pear_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pampear"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:cherry_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamcherry"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:plum_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamplum"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:peach_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pampeach"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:paperbark_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pampaperbark"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:spiderweb_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamspiderweb"
+      "required": false
     }
   ]
 }
