@@ -153,6 +153,10 @@
       "id": "minecraft:spruce_sapling",
       "required": false
     },
+    {
+      "id": "minecraft:birch_sapling",
+      "required": false
+    },
     {    
       "id": "pamhc2crops:pamalfalfacrop",
       "required": false
