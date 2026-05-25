@@ -358,6 +358,10 @@
       "required": false
     },
     {
+      "id": "pamhc2crops:cattailseeditem",
+      "required": false
+    },
+    {
       "id": "pamhc2trees:pinenut_sapling",
       "required": false
     },
