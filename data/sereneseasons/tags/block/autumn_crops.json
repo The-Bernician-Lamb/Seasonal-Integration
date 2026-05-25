@@ -276,6 +276,118 @@
     {
       "id": "pamhc2crops:pamwintersquashcrop",
       "required": false
+    },
+    {
+      "id": "pamhc2trees:pinenut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pampinenut"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:hazelnut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamhazelnut"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:almond_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamalmond"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:candlenut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamcandlenut"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:chestnut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamchestnut"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:fig_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamfig"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pecan_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pampecan"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:persimmon_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pampersimmon"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:spiderweb_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamspiderweb"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pomegranate_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pampomegranate"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:starfruit_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamstarfruit"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:walnut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamwalnut"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:apple_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamapple"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:cinnamon_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamcinnamon"
+      "required": false
     }
   ]
 }
