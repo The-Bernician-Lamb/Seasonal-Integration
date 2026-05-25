@@ -572,6 +572,38 @@
     {
       "id": "pamhc2trees:paperbark_sapling",
       "required": false
+    },
+    {
+      "id": "pamhc2trees:orange_sapling",
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:olive_sapling",
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:soursop_sapling",
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:cashew_sapling",
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:date_sapling",
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:vanillabean_sapling",
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:breadfruit_sapling",
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:guava_sapling",
+      "required": false
     }
   ]
 }
