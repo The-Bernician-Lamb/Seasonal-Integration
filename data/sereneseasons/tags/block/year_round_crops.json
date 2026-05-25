@@ -88,6 +88,14 @@
     {
       "id": "pamhc2crops:pammulberrycrop"
       "required": false
+    },
+    {
+      "id": "pamhc2trees:maple_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pammaple"
+      "required": false
     }
   ]
 }
