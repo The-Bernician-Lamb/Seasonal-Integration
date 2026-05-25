@@ -1,0 +1,12 @@
+{
+  "values": [
+  {
+    "id": "#c:is_taiga",
+    "required": false
+  },
+  {
+    "id": "#minecraft:is_taiga",
+    "required": false
+  }
+]
+}
