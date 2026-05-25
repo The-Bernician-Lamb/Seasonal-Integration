@@ -96,6 +96,14 @@
     {
       "id": "pamhc2trees:pammaple"
       "required": false
+    },
+    {
+      "id": "pamhc2trees:acorn_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pamacorn"
+      "required": false
     }
   ]
 }
