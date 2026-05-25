@@ -446,6 +446,14 @@
       "required": false
     },
     {
+      "id": "pamhc2crops:agaveseeditem",
+      "required": false
+    },
+    {
+      "id": "pamhc2crops:sunchokeseeditem",
+      "required": false
+    },
+    {
       "id": "pamhc2trees:dragonfruit_sapling",
       "required": false
     },
