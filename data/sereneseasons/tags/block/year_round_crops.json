@@ -82,27 +82,27 @@
       "required": false
     },
     {
-      "id": "pamhc2crops:pamwhitemushroomcrop"
+      "id": "pamhc2crops:pamwhitemushroomcrop",
       "required": false
     },
     {
-      "id": "pamhc2crops:pammulberrycrop"
+      "id": "pamhc2crops:pammulberrycrop",
       "required": false
     },
     {
-      "id": "pamhc2trees:maple_sapling"
+      "id": "pamhc2trees:maple_sapling",
       "required": false
     },
     {
-      "id": "pamhc2trees:pammaple"
+      "id": "pamhc2trees:pammaple",
       "required": false
     },
     {
-      "id": "pamhc2trees:acorn_sapling"
+      "id": "pamhc2trees:acorn_sapling",
       "required": false
     },
     {
-      "id": "pamhc2trees:pamacorn"
+      "id": "pamhc2trees:pamacorn",
       "required": false
     }
   ]
