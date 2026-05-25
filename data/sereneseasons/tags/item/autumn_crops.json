@@ -284,6 +284,62 @@
     {
       "id": "pamhc2crops:wintersquashseeditem",
       "required": false
+    },
+    {
+      "id": "pamhc2trees:pinenut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:hazelnut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:almond_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:candlenut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:chestnut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:fig_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pecan_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:persimmon_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:spiderweb_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:pomegranate_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:starfruit_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:walnut_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:apple_sapling"
+      "required": false
+    },
+    {
+      "id": "pamhc2trees:cinnamon_sapling"
+      "required": false
     }
   ]
 }
