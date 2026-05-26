@@ -3,6 +3,38 @@
   {
     "id": "#sereneseasons:tropical_biomes",
     "required": false
+  },
+  {
+    "id": "#c:is_hot/overworld",
+    "required": false
+  },
+  {
+    "id": "#c:is_savanna",
+    "required": false
+  },
+  {
+    "id": "#c:is_badlands",
+    "required": false
+  },
+  {
+    "id": "#c:is_desert",
+    "required": false
+  },
+  {
+    "id": "#c:is_jungle",
+    "required": false
+  },
+  {
+    "id": "#minecraft:is_savanna",
+    "required": false
+  },
+  {
+    "id": "#minecraft:is_jungle",
+    "required": false
+  },
+  {
+      "id": "#minecraft:is_badlands",
+      "required": false
   }
 ]
 }
