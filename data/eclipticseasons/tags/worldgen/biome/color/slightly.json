@@ -4,30 +4,6 @@
     {
       "id": "#c:is_swamp",
       "required": false
-    },
-    {
-      "id": "environmental:pine_barrens",
-      "required": false
-    },
-    {
-      "id": "environmental:old_growth_pine_barrens",
-      "required": false
-    },
-    {
-      "id": "environmental:pine_slopes",
-      "required": false
-    },
-    {
-      "id": "environmental:snowy_old_growth_pine_barrens",
-      "required": false
-    },
-    {
-      "id": "environmental:snowy_pine_barrens",
-      "required": false
-    },
-    {
-      "id": "atmospheric:aspen_parkland",
-      "required": false
     }
   ]
 }
