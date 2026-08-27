@@ -396,6 +396,10 @@
     {
       "id": "pamhc2trees:spiderweb_sapling",
       "required": false
+    },
+    {
+      "id": "spawn:sunflower_seeds",
+      "required": false
     }
   ]
 }
