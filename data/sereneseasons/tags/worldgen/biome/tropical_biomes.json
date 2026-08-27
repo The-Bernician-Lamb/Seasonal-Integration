@@ -120,6 +120,26 @@
     {
       "id": "climaterivers:lukewarm_river",
       "required": false
+    },
+    {
+      "id": "spawn:deep_warm_ocean",
+      "required": false
+    },
+    {
+      "id": "spawn:dodo_island",
+      "required": false
+    },
+    {
+      "id": "spawn:sandy_island",
+      "required": false
+    },
+    {
+      "id": "spawn:tropical_island",
+      "required": false
+    },
+    {
+      "id": "spawn:volcanic_island",
+      "required": false
     }
   ]
 }
