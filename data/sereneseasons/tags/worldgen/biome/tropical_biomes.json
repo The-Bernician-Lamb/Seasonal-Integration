@@ -140,6 +140,10 @@
     {
       "id": "spawn:volcanic_island",
       "required": false
+    },
+    {
+      "id": "windswept:flowering_savanna",
+      "required": false
     }
   ]
 }
