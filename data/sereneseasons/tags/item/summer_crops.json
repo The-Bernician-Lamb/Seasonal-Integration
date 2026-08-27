@@ -612,6 +612,22 @@
     {
       "id": "pamhc2trees:guava_sapling",
       "required": false
+    },
+    {
+      "id": "spawn:sunflower_seeds",
+      "required": false
+    },
+    {
+      "id": "spawn:date_seed",
+      "required": false
+    },
+    {
+      "id": "spawn:sunflower_seeds",
+      "required": false
+    },
+    {
+      "id": "spawn:dates",
+      "required": false
     }
   ]
 }
