@@ -432,6 +432,10 @@
     {
       "id": "pamhc2trees:pamspiderweb",
       "required": false
+    },
+    {
+      "id": "spawn:sunflower_plant",
+      "required": false
     }
   ]
 }
