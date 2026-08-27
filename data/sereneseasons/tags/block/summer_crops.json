@@ -760,6 +760,14 @@
     {
       "id": "pamhc2trees:pamguava",
       "required": false
+    },
+    {
+      "id": "spawn:date_sapling",
+      "required": false
+    },
+    {
+      "id": "spawn:sunflower_plant",
+      "required": false
     }
   ]
 }
