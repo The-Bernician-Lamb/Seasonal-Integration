@@ -396,6 +396,14 @@
     {
       "id": "pamhc2trees:pamcinnamon",
       "required": false
+    },
+    {
+      "id": "windswept:pine_sapling",
+      "required": false
+    },
+    {
+      "id": "windswept:chestnut_sapling",
+      "required": false
     }
   ]
 }
