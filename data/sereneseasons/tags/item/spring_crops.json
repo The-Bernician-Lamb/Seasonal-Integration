@@ -400,6 +400,18 @@
     {
       "id": "spawn:sunflower_seeds",
       "required": false
+    },
+    {
+      "id": "windswept:pine_sapling",
+      "required": false
+    },
+    {
+      "id": "windswept:pinecone",
+      "required": false
+    },
+    {
+      "id": "windswept:wild_berries",
+      "required": false
     }
   ]
 }
