@@ -768,6 +768,10 @@
     {
       "id": "spawn:sunflower_plant",
       "required": false
+    },
+    {
+      "id": "windswept:flowering_acacia_sapling",
+      "required": false
     }
   ]
 }
