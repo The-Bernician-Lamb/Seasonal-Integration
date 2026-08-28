@@ -140,6 +140,22 @@
     {
       "id": "pamhc2trees:pampersimmon",
       "required": false
+    },
+    {
+      "id": "windswept:pine_sapling",
+      "required": false
+    },
+    {
+      "id": "windswept:chestnut_sapling",
+      "required": false
+    },
+    {
+      "id": "windswept:holly_sapling",
+      "required": false
+    },
+    {
+      "id": "windswept:wild_berry_bush",
+      "required": false
     }
   ]
 }
