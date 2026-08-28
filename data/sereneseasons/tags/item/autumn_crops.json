@@ -348,6 +348,22 @@
     {
       "id": "pamhc2trees:cinnamon_sapling",
       "required": false
+    },
+    {
+      "id": "windswept:pine_sapling",
+      "required": false
+    },
+    {
+      "id": "windswept:pinecone",
+      "required": false
+    },
+    {
+      "id": "windswept:chestnut_sapling",
+      "required": false
+    },
+    {
+      "id": "windswept:chestnuts",
+      "required": false
     }
   ]
 }
