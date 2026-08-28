@@ -436,6 +436,14 @@
     {
       "id": "spawn:sunflower_plant",
       "required": false
+    },
+    {
+      "id": "windswept:pine_sapling",
+      "required": false
+    },
+    {
+      "id": "windswept:wild_berry_bush",
+      "required": false
     }
   ]
 }
