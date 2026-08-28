@@ -622,11 +622,11 @@
       "required": false
     },
     {
-      "id": "spawn:sunflower_seeds",
+      "id": "spawn:dates",
       "required": false
     },
     {
-      "id": "spawn:dates",
+      "id": "windswept:flowering_acacia_sapling",
       "required": false
     }
   ]
