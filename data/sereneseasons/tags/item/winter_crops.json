@@ -130,6 +130,10 @@
       "required": false
     },
     {
+      "id": "spawn:potted_sweet_berries",
+      "required": false
+    },
+    {
       "id": "windswept:pine_sapling",
       "required": false
     },
