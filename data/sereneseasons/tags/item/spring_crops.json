@@ -398,6 +398,10 @@
       "required": false
     },
     {
+      "id": "spawn:potted_sweet_berries",
+      "required": false
+    },
+    {
       "id": "spawn:sunflower_seeds",
       "required": false
     },
