@@ -142,6 +142,10 @@
       "required": false
     },
     {
+      "id": "spawn:rocky_shore",
+      "required": false
+    },
+    {
       "id": "windswept:flowering_savanna",
       "required": false
     }
